@@ -1,0 +1,18 @@
+.custom-logo{
+	border-radius: 50%;
+}
+
+.custom-logo:hover{
+	transform: rotate(-20deg);
+	transition: transform 0.5s;
+	
+}
+
+.Upload-Date-Text{
+	text-align: center;
+	opacity: 50%;
+}
+
+.heading{
+	text-align: center;
+}
